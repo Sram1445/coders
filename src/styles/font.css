@@ -1,0 +1,28 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/OrbitronBold.ttf");
+  font-family: "Orbitron";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SarpanchRegular.ttf");
+  font-family: "Sarpanch";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/SarpanchBold.ttf");
+  font-family: "Sarpanch";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PoppinsRegular.ttf");
+  font-family: "Poppins";
+  font-weight: 400;
+}
